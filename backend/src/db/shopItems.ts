@@ -211,6 +211,17 @@ const shopItems: ShopItems[] = [
     rarity: "Rare",
   },
   {
+    id: 60,
+    name: "MacOS",
+    description: null,
+    price: 5000,
+    type: "Title",
+    levelReq: 10,
+    classReq: null,
+    specialReq: null,
+    rarity: "Rare",
+  },
+  {
     id: 18,
     name: "Beast",
     description: null,
